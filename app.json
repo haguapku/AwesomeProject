@@ -1,10 +1,13 @@
 {
   "name": "AwesomeProject",
+  "slug": "awesomeproject",
   "displayName": "AwesomeProject",
+  "owner": "markyang",
+  "orientation": "portrait",
   "version": "1.0.0",
   "ios": {
     "supportsTablet": true,
-    "bundleIdentifier": "com.AwesomeProject",
+    "bundleIdentifier": "com.AwesomeProject"
   },
   "android": {
     "package": "com.AwesomeProject"
