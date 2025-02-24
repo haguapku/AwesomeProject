@@ -1,6 +1,14 @@
 {
   "name": "AwesomeProject",
   "displayName": "AwesomeProject",
+  "version": "1.0.0",
+  "ios": {
+    "supportsTablet": true,
+    "bundleIdentifier": "com.AwesomeProject",
+  },
+  "android": {
+    "package": "com.AwesomeProject"
+  },
   "extra": {
     "eas": {
       "projectId": "97d24d78-3739-496a-8887-471780caa871"
